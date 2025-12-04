@@ -19,3 +19,24 @@ The design is fully responsive, minimal, and user-focused.
 
 ## 📂 Folder Structure
 
+portfolio/
+│
+├── index.html
+├── styles/
+│ ├── style.css
+│ └── responsive.css
+└── scripts/
+└── main.js
+
+
+---
+
+## 💻 Core Tech Used
+
+- **HTML5** — component layout + semantic tags  
+- **CSS3** — responsive styling, transitions, hover effects  
+- **JavaScript (ES6)** — UI events + scroll animations  
+
+No frameworks, no libraries → **pure frontend**.
+
+---
