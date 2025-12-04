@@ -1,2 +1,21 @@
-# myportfolio
-I made this portfolio with html and css and javascript.
+# 🌐 Personal Portfolio Website
+
+My personal portfolio built using **HTML, CSS, and JavaScript**.  
+It highlights my skills, projects, experiences, and ways to contact me.  
+The design is fully responsive, minimal, and user-focused.
+
+---
+
+## ✨ Features
+
+- 🧑‍💻 About me + introduction
+- 🚀 Projects showcase
+- 🛠️ Technical skills
+- 📱 Responsive (Mobile + Tablet + Desktop)
+- ⚡ Smooth interaction + animations
+- 🔗 Direct links to GitHub / Socials
+
+---
+
+## 📂 Folder Structure
+
