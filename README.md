@@ -37,6 +37,6 @@ portfolio/
 - **CSS3** — responsive styling, transitions, hover effects  
 - **JavaScript (ES6)** — UI events + scroll animations  
 
-No frameworks, no libraries → **pure frontend**.
+
 
 ---
