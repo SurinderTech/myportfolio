@@ -19,6 +19,7 @@ The design is fully responsive, minimal, and user-focused.
 
 ## 📂 Folder Structure
 
+```
 portfolio/
 │
 ├── index.html
@@ -27,7 +28,7 @@ portfolio/
 │ └── responsive.css
 └── scripts/
 └── main.js
-
+```
 
 ---
 
